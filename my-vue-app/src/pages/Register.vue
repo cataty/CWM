@@ -1,5 +1,5 @@
 <template>
-    <h1>
+    <MainH1>
         Crear cuenta
-    </h1>
+    </MainH1>
 </template>

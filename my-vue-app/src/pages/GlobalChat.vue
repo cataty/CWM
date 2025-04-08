@@ -1,5 +1,5 @@
 <template>
-    <h1>
+    <MainH1>
         Chat Global
-    </h1>
+    </MainH1>
 </template>

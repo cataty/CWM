@@ -1,0 +1,1 @@
+// necesario para que el plugin de tailwind aautocomplete funcione bien
