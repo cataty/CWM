@@ -1,0 +1,21 @@
+[
+        {
+            "texto": "Welcome to our service! How can I assist you today?",
+            "email": "bot"
+        },
+        {
+            "id": 1,
+            "texto": "Hello, how are you?",
+            "email": "user"
+        },
+        {
+            "id": 2,
+            "texto": "I'm fine, thank you!",
+            "email": "bot"
+        },
+        {
+            "id": 3,
+            "texto": "What can I do for you today?",
+            "email": "bot"
+        }
+]
