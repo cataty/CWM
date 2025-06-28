@@ -1,0 +1,8 @@
+carrera: Diseño y Desarrollo Web
+materia: Clientes Web Mobile
+1er cuatrimestre 2025
+turno tarde
+comisión: DWT4AV
+alumna: Blank Tatjana
+docente: Santiago Gallino
+2ndo parcial
